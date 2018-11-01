@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Shasha0425/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Shasha0425/liri-node-app#readme"
+  "homepage": "https://github.com/Shasha0425/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
 }
