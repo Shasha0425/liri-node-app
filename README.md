@@ -8,6 +8,14 @@ Liri Bot is a  Language Interpretation and Recognition Interface.  This particul
 
 * Liri is a command line node app. In order to run it, you will need a terminal program such as "Git Bash"
 * This app uses OMDB, Spotify and Bands In Town APIs to find the data you search for.
+* LIRI uses the following commands
+    > spotify-this-song   To get information on your favorite song
+    > concert-this  To get list of upcoming events for your favorite artist
+    > movie-this To get information on your favorite movie
 
 
-**Good Luck!**
+### See LIRI In Action
+
+https://drive.google.com/file/d/19zeBDB0pSgKeS33r9mBKEvBU_Ufhmv5h/view
+
+
